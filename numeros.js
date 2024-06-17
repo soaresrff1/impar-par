@@ -12,4 +12,3 @@ process.stdin.on("data", function (data) {
   }
   console.log(...par, ...impar);
 });
-process.exit();
